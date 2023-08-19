@@ -10,6 +10,7 @@ body
 
 nav
 {
+     background-color: black;
      position: fixed;
      display: flex;
      flex-direction: row-reverse;
